@@ -155,8 +155,8 @@ export default async function OGImage(
       </div>
     ),
     {
-      width: 600,
-      height: 300 //,
+      width: 100,
+      height: 50 //,
       //fonts: [
       //  {
      //     name: 'Arial',
