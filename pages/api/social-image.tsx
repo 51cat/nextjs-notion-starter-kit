@@ -156,21 +156,23 @@ export default async function OGImage(
     ),
     {
       width: 1200,
-      height: 630,
-      fonts: [
-        {
-          name: 'Arial',
+      height: 630 //,
+      //fonts: [
+      //  {
+     //     name: 'Arial',
           // data: interRegularFont,
-          style: 'normal',
-          weight: 400
-        },
-        {
-          name: 'Arial',
+      //    style: 'normal',
+     //     weight: 400
+    //    }
+        //,
+        //{
+        //  name: 'Arial',
           // data: interSemiBoldFont,
-          style: 'normal',
-          weight: 700
-        }
-      ]
+        //  style: 'normal',
+        //  weight: 700
+        // }
+        //
+    //  ]
     }
   )
 }
