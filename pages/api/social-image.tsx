@@ -159,13 +159,13 @@ export default async function OGImage(
       height: 630,
       fonts: [
         {
-          name: 'Inter',
+          name: 'Arial',
           // data: interRegularFont,
           style: 'normal',
           weight: 400
         },
         {
-          name: 'Inter',
+          name: 'Arial',
           // data: interSemiBoldFont,
           style: 'normal',
           weight: 700
